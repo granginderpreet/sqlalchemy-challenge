@@ -8,3 +8,8 @@ app.py: Main python file to run the app for various querries. The API root query
 There are two output files
  tobs.png (temp results) 
  Precipitation.png (prcp results)
+
+
+For Bonus 1:
+Please refer to temp_analysis_bonus_1_starter.ipynb
+Also refer to Markdown section on Analysis at the end of the notebook
